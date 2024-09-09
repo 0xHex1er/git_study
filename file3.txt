@@ -1,4 +1,2 @@
 
-
-	Revise File 3
 	Hello File 3
